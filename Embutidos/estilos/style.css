@@ -1,0 +1,25 @@
+#div_azul{
+    text-align: center;
+    background-color: rgb(155, 155, 241);
+}
+#div_verde{
+    float: left;
+    background-color: rgb(114, 182, 114);
+    height: 200px;
+    
+}
+
+#yellow{
+    color: orange;
+}
+#red{
+    color: red;
+}
+
+#div_verde2{
+    background-color: rgb(114, 182, 114);
+    float: right;
+    height: 200px;
+    
+    
+}
